@@ -12,6 +12,7 @@
 # MAGIC ## Introduction to PySpark Programming
 # MAGIC
 # MAGIC This module is part of the Data Engineer Learning Path by Databricks Academy.
+# MAGIC Haven't seen this before
 # MAGIC
 # MAGIC #### DataFrames
 # MAGIC | Type | Lesson |
